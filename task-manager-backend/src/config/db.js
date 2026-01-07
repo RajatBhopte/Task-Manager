@@ -1,7 +1,6 @@
 import mongoose from 'mongoose';
 
 
-
 // importing mongodb url;
 const MONGODB_URL = process.env.MONGODB_URL;
 
